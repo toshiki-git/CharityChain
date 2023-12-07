@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Orange",
+    "img": "/orange.png",
+    "price": "$5.50"
+  },
+  {
+    "id": 2,
+    "title": "Raspberry",
+    "img": "/raspberry.png",
+    "price": "$10.00"
+  },
+  {
+    "id": 3,
+    "title": "Lemon",
+    "img": "/lemon.png",
+    "price": "$5.30"
+  },
+  {
+    "id": 4,
+    "title": "Avocado",
+    "img": "/avocado.png",
+    "price": "$15.70"
+  },
+  {
+    "id": 5,
+    "title": "Banana",
+    "img": "/banana.png",
+    "price": "$7.50"
+  },
+  {
+    "id": 6,
+    "title": "Watermelon",
+    "img": "/watermelon.png",
+    "price": "$12.20"
+  }
+]
